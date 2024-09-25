@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+uploads/
+# dotenv environment variables file
+.env
+
+coverage/
+
+.scannerwork/
+info.log
+src/data/

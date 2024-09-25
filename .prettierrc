@@ -1,0 +1,11 @@
+{
+    "charset": "utf-8",
+    "trailingComma": "none",
+    "tabWidth": 4,
+    "semi": false,
+    "singleQuote": true,
+    "max_line_length": 200,
+    "rangeEnd": 9999999,
+    "rangeStart": 0,
+    "printWidth": 135
+}

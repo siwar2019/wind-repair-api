@@ -1,0 +1,16 @@
+{
+    "exclude": ["**/*.spec.ts"],
+    "compilerOptions": {
+        "module": "commonjs",
+        "experimentalDecorators": true,
+        "target": "ES2017",
+        "outDir": "./dist",
+        "strict": true,
+        "noImplicitAny": true,
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "emitDecoratorMetadata": true,
+        "resolveJsonModule": true
+    }
+}
